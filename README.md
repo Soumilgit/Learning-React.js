@@ -1,2 +1,2 @@
-# React-Tutorial-fcc
-Code snippets for freeCodeCamp's React Tutorial.
+# React sub-course under fcc Front End Development Libraries Certification
+Code snippets for freeCodeCamp's React sub-course.
